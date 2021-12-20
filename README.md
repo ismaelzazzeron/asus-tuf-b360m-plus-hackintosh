@@ -9,6 +9,7 @@ Placa Wifi FV-T919
 EFI adequada para esta maquina e a configuração da bios para esta placa mãe
 
 Se funcionar e quiser fazer alguma doação 
+
 ETH = 0x02b01af8c450867f546a00e5ef7eeae95a3871ab
 
 Abraço
