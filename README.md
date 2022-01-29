@@ -11,8 +11,6 @@
 
 *EFI adequada para esta maquina e a configuração da bios para esta placa mãe
 
-*OBS: Desativar VT-d
-
 ****************************
 
 *Para programação se precisar instalar o Docker 
